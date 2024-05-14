@@ -8,7 +8,4 @@ We evaluated Frank by simulating the users' behaviour with various levels of exp
 ![Frank's Steps](https://github.com/FedericoMz/Frank/assets/80719913/4713ade4-57aa-4b1b-b114-a098bf537098)
 
 ## What the various files do
-_IDA_frank_main_ includes the main systems, whereas _frank_algo_ some auxiliary methods employed by Frank (for example, to compute fairness, or create synthetic records). _classes_ includes various simulated users.
-
-We will provide a tutorial notebook soon.
-
+_IDA_frank_main_ includes the main systems, whereas _frank_algo_ some auxiliary methods employed by Frank (for example, to compute fairness, or create synthetic records). _classes_ includes various simulated users. Check the tutorial to see how to set the users and Frank.
